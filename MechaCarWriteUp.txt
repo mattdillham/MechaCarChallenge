@@ -10,4 +10,9 @@ Yes, it predicts the model of mpg well, with a multiple r squared value of 0.703
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per inch. Does the current manufacturing data meet this design specification? Why or why not?
 Yes becasue the data suggests that the current manufacturing design specification does not exceed 100 pounds per inch, this is because of the variance value.
 
+Suspension Coil T-test
+The suspension coil pound-per-inch results are not statistically different.
+
 Design your own study.
+If i were to design my own study I would get metrics on repair frequency. Some of the metrics would be repairs by year, make, model, and mileage. This would allow one to be able to have a sense of predictability with which cars need repairs. I think a linear regression or t test could be used to find desired metrics. A null hypothesis would be basically the perfect car that never breaks down or needs repairs.
+
