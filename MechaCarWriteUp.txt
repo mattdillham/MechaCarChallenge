@@ -1,0 +1,13 @@
+Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+The two variables vehicle length and ground clearance provide non-random amount of variance becasue the values are less than 0.05.
+
+Is the slope of the linear model considered to be zero? Why or why not?
+No, because the intercept value (p value) is less than 0.05.
+
+Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+Yes, it predicts the model of mpg well, with a multiple r squared value of 0.7032 which is a strong level of predictability.
+
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per inch. Does the current manufacturing data meet this design specification? Why or why not?
+Yes becasue the data suggests that the current manufacturing design specification does not exceed 100 pounds per inch, this is because of the variance value.
+
+Design your own study.
